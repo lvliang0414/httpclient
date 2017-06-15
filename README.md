@@ -1,6 +1,8 @@
 
-C++ http client 
+C++ 封装的http client 
 
-libcurl
+使用了libcurl库
+
+
 
 
